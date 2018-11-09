@@ -5,7 +5,7 @@ const developers = ['271739675759083520'];
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setGame(`. FủLiĨ "#1813`,'https://www.twitch.tv/MeeRcY')
+  client.user.setGame(`mmM`,'https://www.twitch.tv/MeeRcY')
   client.user.setStatus("idle")
 });
 
